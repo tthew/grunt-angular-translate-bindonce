@@ -1,6 +1,6 @@
 {
-  "name": "grunt-angular-translate",
-  "version": "0.2.10",
+  "name": "grunt-angular-translate-bindonce",
+  "version": "0.2.11",
   "description": "Extract all the translation keys for angular-translate project",
   "main": "Gruntfile.js",
   "directories": {
@@ -40,6 +40,9 @@
     "i18n"
   ],
   "author": "Benjamin Longearet",
+  "contributors": [
+    "Matt Richards (tthew)"
+  ],
   "bugs": {
     "url": "https://github.com/angular-translate/grunt-angular-translate/issues"
   },

@@ -1,8 +1,8 @@
-# grunt-angular-translate
+# grunt-angular-translate-bindonce
 
 ** This project was moved into angular-translate organization **
 
-Extract all the translation keys for angular-translate project
+Extract all the translation keys for angular-translate project including support for the [angular-bindonce](https://github.com/Pasvaz/bindonce) `bo-text` directive.
 
 ##Status
 [![NPM](https://nodei.co/npm/grunt-angular-translate.png)](https://nodei.co/npm/grunt-angular-translate/)
